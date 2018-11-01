@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+
+div.round3 {height: 400px;}
+
+div.round2 img {
+    width: 320px;
+}
+
+h2.canggiua {text-align: center;
+    padding: 80px;
+    color: maroon;
+}
+
+div.round1 img ,div.round2 img,div.round3 img,div.round4 img{
+    float: left;
+    margin: 0px 50px 10px 300px;
+}
+div.round4 img {
+    width: 325px;
+}
+div.round3 img {
+    width: 320px;
+}
+.round2 {
+    height: 400px;
+}
+ 
+div.round2 img{
+    float: left;
+    margin: 0px 50px 10px 300px;
+}
+.round1 ,.round2,.round3,.round4{
+    height:600px;
+}
+    div.round1 p ,div.round2 p,div.round3 p,div.round4 p{    color: darkred;
+    font-family: tahoma;
+    font-weight: bolder;
+    display: block;
+    padding-top: 151px;
+}
+}
+
+.noidung1 ,.noidung2,.noidung3,.noidung4{
+    height: 170px;
+    padding: 50px ;
+    text-align: center;
+    
+}
+.home {
+    width: 100%;
+    height: 600px;
+    background: url(https://66.media.tumblr.com/4529d78cc802f05f8149810a22da24bc/tumblr_n38ifpHUTj1sor8q8o9_1280.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.menu ul {
+    margin-left: 30%;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+    padding: 16px 21px;
+    color: rebeccapurple;
+    font-family: fantasy;
+    font-weight: bolder;
+}
+
+li {
+    float: left;
+    list-style: none;
+}
+header div.menu {
+    width: 100%;
+    height: 57px;
+    background-color: aliceblue;
+    margin: auto;
+    position: fixed;
+    top: 0}
+body
+    {
+         background: cadetblue;}
